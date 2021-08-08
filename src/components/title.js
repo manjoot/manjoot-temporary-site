@@ -17,7 +17,7 @@ export default function Title(){
                 
 
                 <p className="text-xl text-gray-500">
-                Welcome to my <b>temporary </b> site.
+                 Welcome to my <b>temporary </b> site.
                 </p>
 
                 <br/>
