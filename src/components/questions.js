@@ -7,9 +7,9 @@ export default function Questions() {
 
           <div className="text-left bg-gray-100 rounded-lg p-10">
 
-            {/* Why do you have a temporary site? */}
+            {/* Why have you built a temporary site? */}
             <p className="my-3 text-xl sm:text-2xl lg:text-3xl font-bold sm:tracking-tight text-gray-900">
-              Why do you have a temporary site?
+              Why have you built a temporary site?
             </p>
             <p className="text-l text-gray-500">
               I'm currently working on an exciting new refresh of my personal website, that I will be building using <b>Gatsby</b> and <b>Tailwind</b>. I needed a temporary site that will act as a placeholder during development.
