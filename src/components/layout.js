@@ -24,7 +24,7 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      {/* <Header siteTitle={data.site.siteMetadata?.title || `Title`} /> */}
+      <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <div className="bg-white">
         <div className="py-16 sm:py-24 px-4 sm:px-6 lg:px-8 mx-auto max-w-screen-xl">
 
@@ -76,7 +76,7 @@ const Layout = ({ children }) => {
             </p>
             <p className="text-l text-gray-500">
               You can, however the contact us form functionality has been removed. Do check out the site nonetheless, the link is&nbsp;  
-              <a className="text-blue-600 hover:text-blue-400" href="https://www.manjoot.github.io">
+              <a className="text-blue-600 hover:text-blue-400" href="https://manjoot.github.io">
               here
               </a>
               .
